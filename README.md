@@ -5,7 +5,7 @@
 
 ### Descrição:
 Sistema desenvolvido na DEV WEEK PHILIPS da  <a href="https://www.linkedin.com/school/digitalinnovation-one/"> DIO </a>  e <a href="https://www.linkedin.com/company/philips/"> PHILIPS</a>  com mentoria da Juliana Mascarenhas . Esse sistema irá utilizar uma base de dados do SUS e terá como finalidade em aprender tecnologias e criar um sistema no modelo de negócio da PHILIPS. O sistema irá fazer persistência em um banco, terá front-end em Angular e back-end em  Java.
-https://www.linkedin.com/company/philips/
+
 ### Tecnológia:
 <div align = 'center'>
   <img width =' 100px ' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
